@@ -8,7 +8,7 @@
 ### Skills
 
 - Front-end Development:
-  - HTML <img src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.0/icons/html5.svg" alt="HTML5" height="20px" style="color: white">
+  - HTML <img src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.0/icons/html5.svg" alt="HTML5" height="20px">
   - CSS <img src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.0/icons/css3.svg" alt="CSS3" height="20px">
   - JavaScript <img src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.0/icons/javascript.svg" alt="JavaScript" height="20px">
   - Bootstrap <img src="https://cdn.jsdelivr.net/npm/simple-icons@5.8.0/icons/bootstrap.svg" alt="Bootstrap" height="20px">
